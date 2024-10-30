@@ -1,4 +1,4 @@
-Here's a basic `README.md` file you can use for your Tic-Tac-Toe game. It explains the project setup, usage, and includes details on how to run it locally:
+
 
 ```markdown
 # Tic-Tac-Toe Game
@@ -67,5 +67,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
    git commit -m "Add README file"
    git push origin main
    ```
-
-Your project will then display this README as the main description on your GitHub repository page!
